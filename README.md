@@ -62,7 +62,3 @@ python scripts/setup_database.py
 ```bash
 python main.py
 ```
-
-## Author
-
-Rakesh Morathoti
